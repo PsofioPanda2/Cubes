@@ -1,0 +1,13 @@
+Cubes/x64/
+Cubes/temp/
+Cubes/build/
+Cubes/.vs/
+Cubes/data-files/log.txt
+Cubes/data-files/g3d-license/txt
+*.pdb
+*.opendb
+*.db
+*.txt
+
+
+
