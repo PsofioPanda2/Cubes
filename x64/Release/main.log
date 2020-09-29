@@ -1,0 +1,7 @@
+﻿  App.cpp
+     Creating library x64\Release\cubes.lib and object x64\Release\cubes.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 398 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  main.vcxproj -> C:\Users\EPI SYSTEMS - Thanos.THANOS\Desktop\graphix codex\Cubes\x64\Release\cubes.exe
